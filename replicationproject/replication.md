@@ -74,4 +74,27 @@ I'd like to learn more about how affordance works with everyday technologies; an
 
 I think this relates to how I wan to plan out each and every single little subject that interacts with the one main, primary object that keeps these thigns intact and all.
 
+### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
+
+What I thought before: I thought this was about how technology has shaped our mindsets.
+
+What I learned: Microinteractions matters because we need to understand why we have to do such things in order to complete a task.
+
+What I would like to know more about: What could possibly happen of there's little to no microinteractions. Could that cause a ripple effect?
+
+How this relates to the project I am working on: It makes me get answers to questions like; How does an object you are holding intervene with another? It makes me want to improvise.
+
+### Reading: Scott Sullivan, Prototyping Interactive Objects ###
+
+What I thought before: I thoug this was about how we build ideas with prototypes.
+
+What I learned: There are some plenty misconceptions about how coding works. Sometimes there are lots of flaws along they way help us keep building upon this foundation that is the protoype.
+
+What I would like to know more about: How prototypes can also lead to other branched off ideas and solutions.
+
+How this relates to the project I am working on: It makes me want to improvise on how I can achieve more ideas through making various prototypes.
+
+### Interaction flowchart ###
+
+![Image]
 

@@ -76,13 +76,13 @@ I think this relates to how I wan to plan out each and every single little subje
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I thought this was a good thing but not anymore.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+All the sins I have committed. Were the enough to keep me sane long enough?
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+What has the Devil done to me? I wish i could've looked into the deeper depths than what the shallows have showed me.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+It's... complicated.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 

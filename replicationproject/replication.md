@@ -95,6 +95,34 @@ What I would like to know more about: How prototypes can also lead to other bran
 How this relates to the project I am working on: It makes me want to improvise on how I can achieve more ideas through making various prototypes.
 
 ### Interaction flowchart ###
+![Image](https://bblearn.griffith.edu.au/courses/1/1701QCA_3201/db/_2755083_1/jerasokprnhsoktrnopistrhpoksntrhlonsdthonshlsktnhstrnhlo.png)
 
-![Image]
+### Process Documentation ###
 
+### Project outcome ###
+
+## Project title ##
+
+"You have obtained 1 (one) key!"
+
+## Project description ##
+
+It's a toy thing that beeps out a song when you pet the key. Can be enjoyed by anyone over 8 years.
+
+## Showcase image ##
+
+![Image](https://bblearn.griffith.edu.au/courses/1/1701QCA_3201/db/_2755087_1/DSC03092.JPG)
+
+## Additional View ##
+
+![Image](https://bblearn.griffith.edu.au/courses/1/1701QCA_3201/db/_2755084_1/DSC03089.JPG)
+
+## Reflection ##
+
+I think most of the parts of my project were sucessful. Onlyt ime contraints is keeping me away from further improvements.
+
+Not a lot of techniques, approaches, skills, or information that I was given were useful enough to be creative. I thought  different way around this.
+
+No idea informed my thinking of this project in mind.
+
+I have little knowledge of what I can do with this project.
